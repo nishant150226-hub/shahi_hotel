@@ -3,7 +3,7 @@
 A simple and elegant static website built for a highway-side Indian restaurant.
 This project provides a digital presence for a small food business — helping travelers and families easily explore the restaurant’s ambience, menu, and location.
 
---
+
 ##  Features
 
 - 🏠 Clean homepage with welcoming hero section
@@ -20,7 +20,7 @@ This project provides a digital presence for a small food business — helping t
 
 - 📱 Responsive design for mobile devices
 
---
+
 ## Built With
 
 - HTML5
@@ -28,16 +28,16 @@ This project provides a digital presence for a small food business — helping t
 - Font Awesome (for icons)
 - Google Maps Embed
 
--- 
+ 
 
-## Restaurant Details (Sample)
+## Restaurant Details
 
 - Location: Ring Road, Manatu
 - Contact: +91 98765 43210
 - Email: shahihotel@gmail.com
 - Timings: 9 AM – 11 PM
 
-  --
+  
   ## Future Improvements
 
 - Online table booking
